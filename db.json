@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Guillermo Fuentes",
+      "email": "guillermo.fuentes01@alumnos.ucn.cl",
+      "edad": 23
+    },
+    {
+      "id": 2,
+      "nombre": "María González",
+      "email": "maria.gonzalez@example.com",
+      "edad": 28
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rodríguez",
+      "email": "carlos.rodriguez@example.com",
+      "edad": 35
+    }
+  ]
+}
